@@ -1,24 +1,28 @@
 public class AMPO_ACTIVITY_I {    
 public static void main(String[] args) {
-    //declare variables
+    //Declare Variables
     int a=12;
     int b=8;
     int c=5;
+     
+    int sum = a + b;
+    int difference = c - a;
+    int product = a * b;
+    int quotient = c / a;
 
-    // Addition
-    int add;
-        add= c+b;
-    System.out.println(x:"a+b=");
-    //Subtraction
-    int Subtraction;
-        Sub= a-b;
-    System.out.println(x:"a-b="+(a-b));
-    //
+    System.out.println(sum);
+    System.out.println(difference);   
+    System.out.println(product); 
+    System.out.println(quotient);
+
+
+
+
+
+
+
+
 }
-
-
-
-
 
 
 
