@@ -10,9 +10,9 @@ public class CAMPO_ACTIVITY_I {
    int PRODUCT= B*A; 
    int QUOTIENT= A/C; 
    
-   system.out.println(SUM);
-   system.out.println(DIFFERENCE);
-   system.out.println(PRODUCT);
-   system.out.println(QUOTIENT);
+   System.out.println("Addition:"+SUM);
+   System.out.println("Subtraction:"+DIFFERENCE);
+   System.out.println("Multiplication:"+PRODUCT);
+   System.out.println("Division:"+QUOTIENT);
     }
    }
