@@ -4,15 +4,15 @@ public class PONO_ACTIVITY_1 {
         int b = 20;
         int c = 40;
 
-        int d = a+b;
-        int e = a+c;
-        int f = c*a;
-        int g = a/b;
+        int sum = a+b;
+        int difference= a+c;
+        int product= c*a;
+        int quotient = a/b;
 
-        System.out.println("Addition:" + d);
-        System.out.println("Multiplication:" + e);
-        System.out.println("Subtraction:" + f);
-        System.out.println("Division:" + g);
+        System.out.println("Addition:" + a);
+        System.out.println("Multiplication:" + b);
+        System.out.println("Subtraction:" + c);
+        System.out.println("Division:" + a);
     }
 
 }
